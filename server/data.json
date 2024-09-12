@@ -1,0 +1,53 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": -1,
+      "date": "2022-10-24 10:36:42",
+      "useFor": "drinks",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": -1,
+      "date": "2022-10-24 10:37:51",
+      "useFor": "longdistance",
+      "id": 2
+    },
+    {
+      "type": "income",
+      "money": 1,
+      "date": "2022-10-22 00:00:00",
+      "useFor": "bonus",
+      "id": 3
+    },
+    {
+      "type": "pay",
+      "money": -33,
+      "date": "2022-09-24 16:15:41",
+      "useFor": "dessert",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": -1,
+      "date": "2022-10-22T05:37:06.000Z",
+      "useFor": "drinks",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": -88,
+      "date": "2024-09-10T06:41:55.000Z",
+      "useFor": "taxi",
+      "id": 26
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2024-09-12T07:23:08.843Z",
+      "useFor": "financial",
+      "id": 28
+    }
+  ]
+}
